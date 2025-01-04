@@ -1,6 +1,6 @@
 from django.urls import path
 from django.http import HttpResponse
-from recipes.views import home, sobre, contato
+from recipes.views import home
 
 
 urlpatterns = [
